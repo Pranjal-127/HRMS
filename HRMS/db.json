@@ -71,6 +71,18 @@
       "Password": "234",
       "ConfirmPassword": "234",
       "date": "2025-07-10"
+    },
+    {
+      "id": "bde7",
+      "name": "Boss",
+      "email": "admin@gmail.com",
+      "department": "engineering",
+      "designation": "senior",
+      "userType": "hr",
+      "salary": "125000",
+      "Password": "1234",
+      "ConfirmPassword": "1234",
+      "date": "2025-07-14"
     }
   ]
 }
