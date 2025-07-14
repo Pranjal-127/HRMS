@@ -1,18 +1,6 @@
 {
   "employees": [
     {
-      "id": "e365",
-      "name": "Leo",
-      "email": "Leo@gmaill.com",
-      "department": "engineering",
-      "designation": "senior",
-      "userType": "manager",
-      "salary": "125000",
-      "Password": "567",
-      "ConfirmPassword": "567",
-      "date": "2025-07-08"
-    },
-    {
       "id": "352b",
       "name": "Leo Messi",
       "email": "Leo10@gmail.com",
