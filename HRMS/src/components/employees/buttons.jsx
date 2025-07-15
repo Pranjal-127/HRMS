@@ -17,4 +17,4 @@ function Button({
   );
 }
 
-export default Button;
+export default Button;    // exporting the features of the buttons

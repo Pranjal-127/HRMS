@@ -8,7 +8,7 @@ export default function LogoutButton() {
         navigate("/");
     }
     return(
-        <button 
+        <button  // Log out Button
          onClick={handleLogout}
          icon={<FaLongArrowAltUp />}
          type="button">

@@ -13,7 +13,7 @@ export default function ProtectedRoute({children, allowedRoles = [] }){
     
     }
     if(allowedRoles.length > 0 && !allowedRoles.includes(user.role)){
-        return<Unauthorized/>;
+        return<Unauthorized/>; // Re-direct code 
     }
     return children;
 }
