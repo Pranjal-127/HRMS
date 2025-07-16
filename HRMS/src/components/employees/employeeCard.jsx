@@ -62,3 +62,5 @@ export default function EmployeeCard({
     </div>
   );
 }
+
+// This file contains the essential code for the Employee cards represented on the Employee page

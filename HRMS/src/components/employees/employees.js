@@ -35,3 +35,4 @@ const employees = [
        
     },
 ]
+// it has the defined default variables in it for showing it in the page
