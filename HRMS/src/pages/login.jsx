@@ -10,7 +10,7 @@ export default function LoginForm() {
     e.preventDefault();
 
     if (!email || !password) {
-      alert("Email or password is missing");
+      alert("Email or password is missing");            // The Log In Page
       return;
     }
 
