@@ -14,3 +14,4 @@ export default function Statcard({ title, count, icon, color }) {
     </div>
   );
 }
+// This is the code for the stats card of the page

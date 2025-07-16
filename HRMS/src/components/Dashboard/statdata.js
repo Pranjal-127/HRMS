@@ -31,3 +31,5 @@ const stats = [
     },
 ];
 export default stats;
+
+// This is the JS Export file for the page 
